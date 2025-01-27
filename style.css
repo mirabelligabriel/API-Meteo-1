@@ -1,0 +1,38 @@
+body {
+    font-family: 'Verdana';
+    text-align: center;
+    background-color: #a1d5ff;
+    margin: 0;
+    padding: 0;
+    color: #000000;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+#meteo {
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.card {
+    background-color: #dbdbdb;
+    border: 1px solid #dbdbdb;
+    border-radius: 0.25rem;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    color: #007bff;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #495057;
+}
+
+#icone {
+    width: 3rem;
+    ;
+}
